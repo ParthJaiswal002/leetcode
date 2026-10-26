@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ParthJaiswal002/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ParthJaiswal002/leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ParthJaiswal002/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
