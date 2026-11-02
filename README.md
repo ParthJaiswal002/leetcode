@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ParthJaiswal002/leetcode/tree/master/0682-baseball-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ParthJaiswal002/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ParthJaiswal002/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParthJaiswal002/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ParthJaiswal002/leetcode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/ParthJaiswal002/leetcode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParthJaiswal002/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ParthJaiswal002/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
