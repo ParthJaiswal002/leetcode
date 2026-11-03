@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ParthJaiswal002/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ParthJaiswal002/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/ParthJaiswal002/leetcode/tree/master/0682-baseball-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ParthJaiswal002/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ParthJaiswal002/leetcode/tree/master/0682-baseball-game) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ParthJaiswal002/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ParthJaiswal002/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ParthJaiswal002/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
