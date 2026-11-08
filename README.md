@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/ParthJaiswal002/leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/ParthJaiswal002/leetcode/tree/master/0682-baseball-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ParthJaiswal002/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ParthJaiswal002/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ParthJaiswal002/leetcode/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/ParthJaiswal002/leetcode/tree/master/0622-design-circular-queue) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/ParthJaiswal002/leetcode/tree/master/0622-design-circular-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ParthJaiswal002/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/ParthJaiswal002/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/ParthJaiswal002/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
