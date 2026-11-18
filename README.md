@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/ParthJaiswal002/leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/ParthJaiswal002/leetcode/tree/master/0682-baseball-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ParthJaiswal002/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ParthJaiswal002/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ParthJaiswal002/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ParthJaiswal002/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ParthJaiswal002/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ParthJaiswal002/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ParthJaiswal002/leetcode/tree/master/0682-baseball-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ParthJaiswal002/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ParthJaiswal002/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
@@ -67,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ParthJaiswal002/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/ParthJaiswal002/leetcode/tree/master/0622-design-circular-queue) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ParthJaiswal002/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ParthJaiswal002/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
